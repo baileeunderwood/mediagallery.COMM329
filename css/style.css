@@ -312,7 +312,7 @@ footer p { /*-- targets the footer text --*/
    
    .open-modal:hover:after {
     top: -45%;
-    background-color: #444;
+    background-color: rgb(242, 164, 164);
     transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
    }
 
